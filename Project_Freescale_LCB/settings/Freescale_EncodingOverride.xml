@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>C:\Users\menggl\Desktop\Global_Control_Board4Torque\Hal_RPM_01\Hal_RPM_01.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\Users\menggl\Desktop\Global_Control_Board\Midware_Timer_01\Midware_Timer_01.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\Users\rd01\Desktop\Matrix1xLCB\Global_Control_Board4TorqueTest2\Global_Control_Board4Torque\Hal_RPM_01\Hal_RPM_01.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\E\johnson-work\work_MCB2014\MCB Module\Software\MKE04Z128VLD4\Project\JISFlash.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\E\johnson-work\work_MCB2014\MCB Module\Software\MKE04Z128VLD4\Project\JisFlash.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\E\johnson-work\work_MCB2014\MCB Module\Software\MKE04Z128VLD4\Project\Uart_app.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\E\johnson-work\work_MCB2014\MCB Module\Software\PKE06Z128VLK4\Project\JISFlash.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\E\johnson-work\work_MCB2014\MCB Module\Software\PKE06Z128VLK4\Project\JisFlash.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\E\johnson-work\work_MCB2014\MCB Module\Software\PKE06Z128VLK4\Project\Uart_app.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\SCM\KTKC\2014 KTKC\KC\KC MCB\New Induction Brake LCB (Ascent)\05.Software\Project\JIStypes.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\SCM\KTKC\2014 KTKC\KC\KC MCB\New Induction Brake LCB (Ascent)\05.Software\Project\models\Error Model\Error_inter.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\SCM\KTKC\2014 KTKC\KC\KC MCB\New Induction Brake LCB (Ascent)\05.Software\Project\models\Timer Model\Timer_Inter.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\SCM\KTKC\2014 KTKC\KC\KC MCB\New Induction Brake LCB (Ascent)\_Module_Debug\Project\models\Error Model\Error_inter.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\SCM\KTKC\2014 KTKC\KC\KC MCB\New Induction Brake LCB (Ascent)\_Module_Debug\Project\models\Timer Model\Timer_Inter.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\SCM\KTKC\2015 KTKC\KC\KC MCB\Global LCB for Retail\05.Software\userAPP\main.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\MCB_freescale\MCB\Project\models\Update Model\Update_inter.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\MKE04Z128VLD4\Project\Digital.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\MKE04Z128VLD4\Project\JISFlash.c</path>
+    <encoding>UTF-8</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\MKE04Z128VLD4\Project\JISFlash.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\MKE04Z128VLD4\Project\Uart_app.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\MKE04Z128VLD4\Project\main.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\MKE04Z128VLD4\Project\rpm_bike.c</path>
+    <encoding>Big5</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\newInduction\AC_DC\Project\main.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\newInduction\AC_DC\Project\models\RPM Model\RPM_hal.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\newInduction\AC_DC\Project\models\RPM Model\RPM_hw.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\newInduction\AC_DC\Project\models\RPM Model\RPM_inter.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\newInduction\AC_Induction\Project\JISFlash.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\newInduction\AC_Induction\Project\JIStypes.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\newInduction\AC_Induction\Project\PID.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\newInduction\AC_Induction\Project\main.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\newInduction\AC_Induction\Project\models\ECB Model\ECB_hw.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\newInduction\AC_Induction\Project\models\ECB Model\ECB_inter.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\newInduction\AC_Induction\Project\models\Led Model\Led_inter.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\newInduction\AC_Induction\Project\models\Memory Model\Memory_hal.h</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\shenqb\MCB\newInduction\AC_Induction\Project\models\Memory Model\Memory_hw.h</path>
+    <encoding>System</encoding>
+  </override>
+</userOverrides>
+
+
